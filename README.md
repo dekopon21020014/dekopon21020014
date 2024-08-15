@@ -17,3 +17,5 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=dekopon21020014&theme=gruvbox)
 
+## Commits
+![](https://raw.githubusercontent.com/dekopon21020014/dekopon21020014/output/github-contribution-grid-snake.svg)
